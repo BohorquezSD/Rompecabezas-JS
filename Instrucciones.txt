@@ -1,0 +1,5 @@
+###############################Instrucciones#######################################
+1) Descargar archivo Games
+2) Descomprimir archivo
+3) Abrir carpeta Games
+4) Ejecutararchivo index.html en el navegador

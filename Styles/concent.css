@@ -1,0 +1,35 @@
+#entorno{
+  display: block;
+  margin: 0 auto;
+  background-color: white;
+  width: 600;
+  height: 500;
+}
+#fondo{
+  opacity: 0.3
+}
+#cabecera{
+  background-color: black;
+  height: 100;
+  width: auto;
+  color: White;
+  font-size: 75;
+  text-align: center;
+  font: oblique bold ;
+}
+#botones{
+  height: 25;
+  width: auto;
+  text-align: center;
+}
+body{
+  background-color: black;
+}
+a{
+  font-size: 20;
+  color: White;
+  font: oblique bold ;
+  text-decoration:none;
+  margin-left: 20;
+  margin-right: 20;
+}
